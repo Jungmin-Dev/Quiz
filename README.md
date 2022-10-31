@@ -1,3 +1,5 @@
+출처 : https://www.youtube.com/watch?v=F2JCjVSZlG0 [Youtube] freeCodeCamp.org - React / Typescript Tutorial - Build a Quiz App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
